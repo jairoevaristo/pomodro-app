@@ -2,7 +2,7 @@
 
 App para utilizar o médoto de produtividade `Pomodoro`
 
-# Using
+# Getting Started
 
 1 - Clone o repositório na sua máquina
 
